@@ -16,8 +16,8 @@ This is an open-source **Memecoin Website Template** built with **Next.js**. It'
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/NuxTijNhaX/memecoin-website-template.git
-   cd memecoin-website-template
+   git clone https://github.com/Moonpaka/memecoin1.git
+   cd memecoin1
 
 2. Install dependencies:
    ```sh
@@ -43,6 +43,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 If you find this template useful, consider donating to help maintain and improve it:
 
 Solana Wallet Address:
-`665NQSovQNvT5k7wYVx5WZATQyoMqjhC8JWWmPTsSeq2`
+`DzmD8fetMevsDym5vwK8P53eX1Nbs5yLysuYXk98pPNM`
 
 Any contributions are greatly appreciated! 🙏
